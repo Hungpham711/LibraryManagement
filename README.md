@@ -200,10 +200,12 @@ Dự án đã được hoàn thiện.
 
 # ✏️Ghi chú
 
-Dự án đạt 10 điểm ngày 27/11/2024. 
+### Dự án đạt 10 điểm ngày 27/11/2024. 
 <br> 
 <br> 
 <br> 
 <img src="https://github.com/Hungpham711/LibraryManagement/blob/main/data/Th%E1%BB%B1c%20h%C3%A0nh%20OOP%20INT2204%2011%20-%20Google%20Sheets%20v%C3%A0%202%20trang%20n%E1%BB%AFa%20-%20Tr%C6%B0%E1%BB%9Dng%20h%E1%BB%8Dc%20-%20Microsoft%E2%80%8B%20Edge%2011_27_2024%205_19_13%20PM.png" alt="gmail logo" />
 
+
+### TẠM BIỆT VÀ HẸN KHÔNG GẶP LẠI.
 
