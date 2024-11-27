@@ -177,25 +177,9 @@ Dự án đã được hoàn thiện.
 
 <div align="left">
   <a>
-    <a href="https://www.facebook.com/profile.php?id=100021674799789" target="_blank">
+    <a href="https://www.facebook.com/hat.black.07" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo" />
   </a>
-    
-  <a>
-    <a href="https://www.youtube.com/watch?v=rtOvBOTyX00" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-
-  <a>
-    <a href="https://www.youtube.com/watch?v=bTFGzdEmG-A&list=PLLeRClCOXxzLnfOsKduGsUwbgen0FG46t&index=5" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-
-  <a>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
 
 
 # ✏️Ghi chú
